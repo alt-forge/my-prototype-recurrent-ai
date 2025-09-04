@@ -29,4 +29,5 @@ for i in range(20):
             layer_3 = layer_2.dot(weight2_1)
             print(layer_3)
             break
-    
+
+print("1")
